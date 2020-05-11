@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+h4 {
+    color: rgb(30, 210, 39);
+}
+
+
+.section1{
+    background-color: rgb(0, 132, 255);
+}
+
+.section1 p{
+    color: brown;
+}
+
+#secretSection{
+    background-color: burlywood;
+    color: chartreuse;
+
+}
